@@ -6,8 +6,6 @@ Interfaces y landing page
 
 </div>
 
-# Mercurio-Project
-
 -La app se le denomino Mercurio-
 
 Aplicación web para llevar registros empresariales desde el user administrador y gestor.
