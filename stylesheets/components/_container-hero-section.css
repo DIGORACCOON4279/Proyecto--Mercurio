@@ -1,0 +1,49 @@
+.container-hero-section{
+  width: 100%;
+  height:auto;
+}
+.container-hero-section .pic4{
+  width: 100%;
+  height: auto;
+  position: relative;
+}
+.container-hero-section .hero-section-content{
+  width: 65%;
+  position: absolute;
+  top: 60%;
+  left: 10%;
+}
+.container-hero-section .hero-section-content .title{
+  color: var(--letter-cta-demo);
+  font-size: var(--title);
+  font-family: var(--font-family);
+  font-weight: var(--light);
+}
+.container-hero-section .hero-section-content .btns{
+  margin-top: 40px;
+}
+.container-hero-section .hero-section-content .btns .contacto{
+  padding: 20px 70px;
+  background-color: var(--letter-cta-demo);
+  font-size: var(--subtitle);
+  color: var(--red);
+  text-decoration: none;
+  margin-right: 20px;
+  transition: all .5s;
+}
+.container-hero-section .hero-section-content .btns .contacto:hover{
+  color: var(--letter-cta-demo);
+  background:var(--red);
+}
+.container-hero-section .hero-section-content .btns .demo{
+  padding: 20px 100px;
+  background-color: var(--red);
+  font-size: var(--subtitle);
+  color: var(--letter-cta-demo);
+  text-decoration: none;
+  transition: all .5s;
+  }
+.container-hero-section .hero-section-content .btns .demo:hover{
+  color: var(--red);
+  background:  var(--letter-cta-demo);
+}
