@@ -13,7 +13,7 @@ Aplicación web para llevar registros empresariales desde el user administrador 
 Se realizo bajo la metodología Design Sprint en tablero notion. Los links del estudio del usuario se envían por email, igualmente los archivos de la investigación del Product-Pitch, User persona, User journey con diagrama en Whimsical. El Sketch, Wireframe, Prototipo funcional se realizo en figma los links se envian tambien por email y todo la informacion se dara acceso a goole drive.
 
 👉Link  </br>
-💻[Prototipo desktop](https://www.figma.com/proto/mn8DlE73dy17ZtCBEocnux/Untitled?page-id=0%3A1&type=design&node-id=1-747&viewport=-17%2C1211%2C0.18&scaling=scale-down&starting-point-node-id=1%3A747)</br>
+💻[Prototipo desktop](https://www.figma.com/proto/rzpHCwfAbH6oMzdG1gHuag/Mercurio?page-id=2%3A2&type=design&node-id=2-688&viewport=590%2C363%2C0.02&scaling=scale-down&starting-point-node-id=2%3A688)</br>
 📱[Prototipo cellphone](https://www.figma.com/proto/rzpHCwfAbH6oMzdG1gHuag/Mercurio?page-id=0%3A1&type=design&node-id=484-317&viewport=-3302%2C577%2C0.26&scaling=scale-down&starting-point-node-id=484%3A317)</br>
 🚀[Proyecto](https://proyecto-mercurio.vercel.app/)
 
